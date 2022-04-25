@@ -1,3 +1,6 @@
+#Author: Daniel Fichmann
+#Data: March 2022
+
 #packages
 library(tidyverse)
 library(tidyr)
