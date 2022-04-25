@@ -1,5 +1,5 @@
 #Author: Daniel Fichmann
-#Data: March 2022
+#Date: March 2022
 
 #packages
 library(tidyverse)
